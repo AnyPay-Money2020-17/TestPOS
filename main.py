@@ -19,7 +19,7 @@ month_string = ["",
 class simpleapp_tk:
 	def __init__(self):
 		self.root = Tkinter.Tk()
-		self.root.title("Skynet Watches")
+		self.root.title("AnyPay Test POS")
 		self.root.focus_set()
 		self.root.wm_iconbitmap(bitmap="anypay_icon_o.ico")
 
